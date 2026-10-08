@@ -31,7 +31,7 @@ Dos roles (EMPRESA / CLIENTE) con autenticación y control de acceso por rol med
 
 ---
 
-### Web e Intranet — Grupo de Astrofísica (UGR) *stellar.ugr.es*
+### Web e Intranet — Grupo de Astrofísica (UGR) [stellar.ugr.es](https://stellar.ugr.es/)
 > Sitio web público + intranet para un grupo de investigación de la Universidad de Granada (feb–may 2026).
 
 Frontend desacoplado en **Next.js + TypeScript**; API en **PHP** con configuración CORS y enrutamiento `.htaccess`. Estética glassmorphism oscuro, componentes modularizados, páginas de Publicaciones y Divulgación.
