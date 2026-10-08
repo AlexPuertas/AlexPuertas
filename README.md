@@ -31,7 +31,7 @@ Dos roles (EMPRESA / CLIENTE) con autenticación y control de acceso por rol med
 
 ---
 
-### Web e Intranet — Grupo de Astrofísica (UGR)
+### Web e Intranet — Grupo de Astrofísica (UGR) *stellar.ugr.es*
 > Sitio web público + intranet para un grupo de investigación de la Universidad de Granada (feb–may 2026).
 
 Frontend desacoplado en **Next.js + TypeScript**; API en **PHP** con configuración CORS y enrutamiento `.htaccess`. Estética glassmorphism oscuro, componentes modularizados, páginas de Publicaciones y Divulgación.
@@ -44,18 +44,8 @@ Frontend desacoplado en **Next.js + TypeScript**; API en **PHP** con configuraci
 
 ## 📫 Contacto
 
-- **Email:** alexpuertamartinez63@gmail.com
+- **Email:** alexpuertasmartinez63@gmail.com
 - **GitHub:** [github.com/AlexPuertas](https://github.com/AlexPuertas)
 - **Ubicación:** Granada, España
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
